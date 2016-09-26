@@ -11,5 +11,5 @@ Network captures for the scenarios covered in a particular Overview Document are
 file name composed of the "short name" of the Overview Document, for example [MS-ADFSOD]-captureALL. 
 In the .matp capture files included in the folders, the Windows product version used to generate the captures is included in the name, 
 for example MS-ADFSOD_Example1_WIN2016_X64_WIN10_X64_Domain.matp. 
-In addition, the annotations in each capture file include the published date (in the footer) of the Overview Document used to 
+In addition, the annotations in each network capture file include the published date (in the footer) of the Overview Document used to 
 generate the captures.
