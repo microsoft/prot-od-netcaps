@@ -25,4 +25,4 @@ See https://www.codeplex.com/Download?ProjectName=euodcap&DownloadId=463012.
 For Network Monitor, see https://www.codeplex.com/Download?ProjectName=euodcap&DownloadId=463012 and for Message Analyzer, see http://technet.microsoft.com/en-us/library/jj673503.aspx.
 
 ## Can I contribute new captures or modify existing ones?
-Yes! The files in this repository are the same files that were uploaded to Azure. You can tell us about issues you fond or suggest a change at https://github.com/Microsoft/prot-od-netcaps/issues, or fork a branch and annotate, modify, and add new captures - we welcome all contributors.
+Yes! The files in this repository are the same files that were uploaded to Azure. You can tell us about issues you find or suggest a change at https://github.com/Microsoft/prot-od-netcaps/issues, or fork a branch and annotate, modify, and add new captures - we welcome all contributors.
