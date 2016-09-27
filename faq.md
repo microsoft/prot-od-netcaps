@@ -7,7 +7,7 @@ The network captures map to the examples of common usage scenarios described in 
 Zip files of all the latest network captures (for Windows 10 and Windows Server 2016, generated in September 2016) can be found on the individual title pages for each Overview Document. For example, the network captures for MS-FASOD can be found under the CAPTURE links at https://msdn.microsoft.com/en-us/library/jj216083.aspx.
 
 ## Where can I find the Overview Documents associated with these captures?
-The Windows Protocols Overview Documents are available on MSDN (in HTML, DOCX, and PDF formats) at [url:http://msdn.microsoft.com/en-us/library/hh128055.aspx].
+The Windows Protocols Overview Documents are available on MSDN (in HTML, DOCX, and PDF formats) at http://msdn.microsoft.com/en-us/library/hh128055.aspx.
 
 ## What's the file format of the capture files?
 Newer Individual network capture files for Windows 10 are in Microsoft Message Analyzer .matp format; older ones are in Network Monitor .cap format. All capture files associated with a particular Overview Document are then collected together into a single .ZIP file and published.
