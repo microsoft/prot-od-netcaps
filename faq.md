@@ -12,6 +12,9 @@ The Windows Protocols Overview Documents are available on MSDN (in HTML, DOCX, a
 ## What's the file format of the capture files?
 Newer Individual network capture files for Windows 10 are in Microsoft Message Analyzer .matp format; older ones are in Network Monitor .cap format. All capture files associated with a particular Overview Document are then collected together into a single .ZIP file and published.
 
+## Are .cap format versions of the latest network captures available?
+Yes. This GitHub project also contains .cap format versions of the .matp format network captures, including the annotations.
+
 ## What tool can I use to view and analyze these captures?
 You'll first need to install the required parsers from https://github.com/Microsoft/WindowsProtocolTestSuites. You can then use Network Monitor (3.4 download at http://www.microsoft.com/en-us/download/details.aspx?id=4865) or Message Analyzer (latest version download at http://www.microsoft.com/en-us/download/details.aspx?id=44226), WireShark, or any other network analysis tool to view and analyze the capture files.
 
