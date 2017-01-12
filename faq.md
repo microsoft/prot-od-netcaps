@@ -1,4 +1,4 @@
-# Network Captures & Protocol Overview Documents - Frequently Asked Questions
+ # Network Captures & Protocol Overview Documents - Frequently Asked Questions
 
 ## What do these network captures represent?
 The network captures map to the examples of common usage scenarios described in Windows Protocols Overview Documents. For example, in MS-FASOD File Access Services Protocols Overview at http://msdn.microsoft.com/en-us/library/jj216083.aspx, Example 2 at http://msdn.microsoft.com/en-us/library/jj216101.aspx describes the sequence of events when a client accesses a file in a domain. The corresponding network capture file MS-FASOD_Example2_Win2016_X64_Win10_X64_Domain.matp -- which is included in the [MS-FASOD]-160926-captureALL.zip file at https://winprotocoldoc.blob.core.windows.net/productionwindowsarchives/MS-FASOD/[MS-FASOD]-160926-captureALL.zip -- contains all the network traffic for that example.
@@ -17,6 +17,7 @@ Yes. This GitHub project also contains .cap format versions of the .matp format 
 
 ## What tool can I use to view and analyze these captures?
 You'll first need to install the required parsers from https://github.com/Microsoft/WindowsProtocolTestSuites. You can then use Network Monitor (3.4 download at http://www.microsoft.com/en-us/download/details.aspx?id=4865) or Message Analyzer (latest version download at http://www.microsoft.com/en-us/download/details.aspx?id=44226), WireShark, or any other network analysis tool to view and analyze the capture files.
+NOTE: If using Microsoft Message Analyzer or Network Monitor to view the captures, do not reparse the files or else you may lose some or all of the annotations/comments.
 
 ## What do the comments in the capture files mean?
 Selected frames in each capture file are annotated to match the numbered steps described for the corresponding scenario in the overview documents. They help you better understand the message sequencing and the examples themselves. 
