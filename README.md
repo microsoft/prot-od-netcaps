@@ -1,4 +1,8 @@
-# OD-NetCaps
+# Latest news
+June 29 2018 - Windows RS4 network captures in Microsoft Message Analyzer format (.matp) added for 7 ODs: MS-ADOD, MS-AUTHSOD, 
+MS-AZOD, MS-FASOD, MS-CERSOD, MS-RDSOD, and MS-VSOD.
+
+# prot-od-netCaps
 This project contains annotated network captures for examples in Windows protocols overview documents. 
 Overview Documents describe how related protocols work together to support common scenarios and are published at MSDN under 
 Windows Protocols/Overview Documents at http://msdn.microsoft.com/en-us/library/hh128055(v=prot.13). 
