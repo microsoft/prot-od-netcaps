@@ -1,6 +1,8 @@
 # Latest news
-November 5. 2018 - Windows RS4 network captures in Microsoft Message Analyzer format (.matp) added for MS-CERSOD and MS-RDSOD,
+November 5. 2018 - Windows RS5 network captures in Microsoft Message Analyzer format (.matp) added for MS-CERSOD and MS-RDSOD,
 network captures in WireShark format (.pcapng) added for MS-ADFSOD
+
+# Archived news
 June 29 2018 - Windows RS4 network captures in Microsoft Message Analyzer format (.matp) added for 7 ODs: MS-ADOD, MS-AUTHSOD, 
 MS-AZOD, MS-FASOD, MS-CERSOD, MS-RDSOD, and MS-VSOD.
 
