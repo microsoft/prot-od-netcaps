@@ -1,8 +1,9 @@
 # Latest news
-November 5. 2018 - Windows RS5 network captures in Microsoft Message Analyzer format (.matp) added for MS-CERSOD and MS-RDSOD,
-network captures in WireShark format (.pcapng) added for MS-ADFSOD
+May 30 2019 - Windows 10/Windows Server 2019 (19H1) network captures in WireShark format (.pcapng) and Microsoft Message Analyzer format (.matp) added for MS-ADOD and MS-FASOD and network captures in Microsoft Message Analyzer format (.matp) added for MS-CERSOD and MS-RDSOD.
 
 # Archived news
+November 5 2018 - Windows RS5 network captures in Microsoft Message Analyzer format (.matp) added for MS-CERSOD and MS-RDSOD,
+network captures in WireShark format (.pcapng) added for MS-ADFSOD
 June 29 2018 - Windows RS4 network captures in Microsoft Message Analyzer format (.matp) added for 7 ODs: MS-ADOD, MS-AUTHSOD, 
 MS-AZOD, MS-FASOD, MS-CERSOD, MS-RDSOD, and MS-VSOD.
 
