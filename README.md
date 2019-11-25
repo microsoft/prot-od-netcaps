@@ -1,5 +1,5 @@
 # Latest news
-November 25 2019 - Microsoft Message Analyzer has been retired and removed from public-facing sites on microsoft.com. A private build is available for testing purposes; to request it, send an email to getmma@microsoft.com.
+November 25 2019 - Microsoft Message Analyzer (MMA) has been retired and removed from public-facing sites on microsoft.com. A private MMA build is available for testing purposes; to request it, send an email to getmma@microsoft.com.
 
 # Archived news
 May 30 2019 - Windows 10/Windows Server 2019 (19H1) network captures in WireShark format (.pcapng) and Microsoft Message Analyzer format (.matp) added for MS-ADOD and MS-FASOD and network captures in Microsoft Message Analyzer format (.matp) added for MS-CERSOD and MS-RDSOD.November 5 2018 - Windows RS5 network captures in Microsoft Message Analyzer format (.matp) added for MS-CERSOD and MS-RDSOD,
