@@ -1,5 +1,5 @@
 # Latest news
-May 26 2020 - MS-ASOD and MS-FASOD Wireshark captures, updated and annotated for Windows Server 2019/Windows 10 March 2020 release (20H1) released.
+May 26 2020 - MS-ADOD and MS-FASOD Wireshark captures, updated and annotated for Windows Server 2019/Windows 10 March 2020 release (20H1) released.
 
 # Archived news
 November 25 2019 - Microsoft Message Analyzer (MMA) has been retired and removed from public-facing sites on microsoft.com. A private MMA build is available for testing purposes; to request it, send an email to getmma@microsoft.com.
